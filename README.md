@@ -1,6 +1,6 @@
 Bo Nix 2024 Passing Analysis:
 
-This project analyzes Bo Nix's passing plays in the 2024 season using data play-by-play data from NFLsavant
+This project analyzes Bo Nix's passing plays in the 2024 season using data play-by-play data from NFLsavant. Additional analysis included comparing his completion percentage against all his opponents in 2024. 
 
 Features
 - Categorizes passes by Short, Medium, Deep Throws
@@ -16,6 +16,10 @@ Tools
 - Jupyter Notebook
 - ChatGPT providing large amounts of help in the programming process
 
-Final Graph Created:
+Two Graphs Created:
 
 <img width="856" height="534" alt="Screenshot 2025-10-10 at 6 56 08 PM" src="https://github.com/user-attachments/assets/3e62ac8f-2360-47f9-977b-4b6745b2cecb" />
+
+
+
+<img width="812" height="524" alt="Screenshot 2025-10-10 at 7 13 30 PM" src="https://github.com/user-attachments/assets/afeaba25-70a6-45fa-b2eb-28dcc458aa62" />
