@@ -14,7 +14,7 @@ Tools
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
-- ChatGPT providng large amounts of help in the programming process
+- ChatGPT providing large amounts of help in the programming process
 
 Final Graph Created:
 
