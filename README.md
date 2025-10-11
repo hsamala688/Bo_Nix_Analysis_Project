@@ -7,6 +7,7 @@ Features
 - Then categorizes pass location by: Left, Middle, Right
 - Then by scrapping the dataset I calculate the completion percentage for each zone
 - Then using that data bar graphs are generated to represent the completion rate by throw depth and throw location
+- Additional Ability to Click Through and Find Statistics Using ipy
 
 Tools
 - Python3
