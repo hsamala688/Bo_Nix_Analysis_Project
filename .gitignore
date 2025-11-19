@@ -6,4 +6,9 @@
 
 __pycache__/
 *.pyc
+
+.Rhistory
+.RData
+.Rproj.user/
+
 .ipynb_checkpoints/
