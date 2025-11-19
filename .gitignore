@@ -10,3 +10,5 @@ __pycache__/
 .Rhistory
 .RData
 .Rproj.user/
+
+.ipynb_checkpoints/
