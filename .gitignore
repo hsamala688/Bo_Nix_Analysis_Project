@@ -12,3 +12,4 @@ __pycache__/
 .Rproj.user/
 
 .ipynb_checkpoints/
+*checkpoint.ipynb
