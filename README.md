@@ -9,7 +9,7 @@ Analysis includes:
 - Heatmap visualizations of passing zones
 - An interactive ipywidgets tool to click through and explore game-level stats
 
-# Project Strucutre:
+## Project Strucutre:
 ```
 Bo_Nix_Analysis_Project/
 │
@@ -20,7 +20,7 @@ Bo_Nix_Analysis_Project/
 └── README.md
 ```
 
-# Tools & Libraries:
+## Tools & Libraries:
 - **Python:** Core language utilized
 - **Pandas:** Data loading and data manipulation
 - **Matplotlib:** Utilized for graph and visual creation
@@ -28,7 +28,7 @@ Bo_Nix_Analysis_Project/
 - **Jupyter Notebook:** Main IDE environment used for its favorable utility in performing data analysis
 - **ipywidgets:** Utilized in the interactive tool to allow for a user to toggle what stats they want to filter for
 
-# How to Get Started:
+## How to Get Started:
 
 1.)
 git clone https://github.com/hsamala688/Bo_Nix_Analysis_Project.git
@@ -40,7 +40,7 @@ pip install pandas matplotlib seaborn ipywidgets jupyter
 3.)
 jupyter notebook
 
-# Sample Outputs:
+## Sample Outputs:
 
 The project generates bar graphs showing Bo Nix's completion rate broken down by:
 - **Throw depth:** How does his accuracy change on short vs. deep balls?
@@ -48,7 +48,7 @@ The project generates bar graphs showing Bo Nix's completion rate broken down by
 - **Opponent:** Which defenses gave him the most trouble?
 Heatmaps provide a spatial view of his passing zones and tendencies across the field.
 
-# Data Source:
+## Data Source:
 
 Play-by-Play data sourced from nflverse, nfldatapy, and NFLsavant.com
 
