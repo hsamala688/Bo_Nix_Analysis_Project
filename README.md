@@ -21,12 +21,12 @@ Bo_Nix_Analysis_Project/
 ```
 
 # Tools & Libraries:
-- Python: Core language utilized
-- Pandas: Data loading and data manipulation
-- Matplotlib: Utilized for graph and visual creation
-- Seaborn: Utilized for styling graphs and specifically heatmaps
-- Jupyter Notebook: Main IDE environment used for its favorable utility in performing data analysis
-- ipywidgets: Utilized in the interactive tool to allow for a user to toggle what stats they want to filter for
+- **Python:** Core language utilized
+- **Pandas:** Data loading and data manipulation
+- **Matplotlib:** Utilized for graph and visual creation
+- **Seaborn:** Utilized for styling graphs and specifically heatmaps
+- **Jupyter Notebook:** Main IDE environment used for its favorable utility in performing data analysis
+- **ipywidgets:** Utilized in the interactive tool to allow for a user to toggle what stats they want to filter for
 
 # How to Get Started:
 
@@ -43,9 +43,9 @@ jupyter notebook
 # Sample Outputs:
 
 The project generates bar graphs showing Bo Nix's completion rate broken down by:
-- Throw depth: How does his accuracy change on short vs. deep balls?
-- Field location: Is he more accurate throwing left, right, or down the middle?
-- Opponent: Which defenses gave him the most trouble?
+- **Throw depth:** How does his accuracy change on short vs. deep balls?
+- **Field location:** Is he more accurate throwing left, right, or down the middle?
+- **Opponent:** Which defenses gave him the most trouble?
 Heatmaps provide a spatial view of his passing zones and tendencies across the field.
 
 # Data Source:
