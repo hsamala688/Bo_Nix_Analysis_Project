@@ -16,7 +16,6 @@ Tools
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
-- ChatGPT providing large amounts of help in the programming process
 
 Two Graphs Created:
 
