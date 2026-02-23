@@ -10,6 +10,7 @@ Analysis includes:
 - An interactive ipywidgets tool to click through and explore game-level stats
 
 # Project Strucutre:
+'''
 Bo_Nix_Analysis_Project/
 │
 ├── Heatmaps/                          # Heatmap visualizations of pass zones (Utilizes custom dataset)
@@ -17,6 +18,7 @@ Bo_Nix_Analysis_Project/
 ├── Target Accuracy & Interactive Tool/ # ipywidgets-based interactive stat explorer (Utilizes custom dataset)
 ├── .gitignore
 └── README.md
+'''
 
 # Tools & Libraries:
 - Python: Core language utilized
